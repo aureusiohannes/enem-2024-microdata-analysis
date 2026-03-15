@@ -23,6 +23,7 @@ O objetivo deste projeto é explorar os dados públicos do ENEM e gerar algumas 
 
 - Python
 - Pandas
+- SQL
 
 ## Estrutura do projeto
 
