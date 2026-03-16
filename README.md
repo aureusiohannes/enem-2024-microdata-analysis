@@ -18,11 +18,13 @@ O objetivo deste projeto é explorar os dados públicos do ENEM e gerar algumas 
 - cálculo da média simples entre as cinco áreas do exame
 - cálculo das médias por unidade federativa
 - ranking dos estados com base no desempenho médio
+- criar gráficos acerca dos dados
 
 ## Tecnologias utilizadas
 
 - Python
 - Pandas
+- Matplotlib
 - SQL
 
 ## Estrutura do projeto
