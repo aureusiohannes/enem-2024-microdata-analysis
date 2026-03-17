@@ -1,14 +1,14 @@
 ## English
 
 # enem-2024-microdata-analysis
-Exploratory analysis of ENEM 2024 microdata using Python, Pandas and SQL, including filtering, statistical summaries, and state-level rankings.
+Exploratory analysis of ENEM 2024 microdata using Python, Pandas, Jupyter Notebook and SQL, including filtering, statistical summaries, and state-level rankings.
 
 
 ## Português
 
 # Análise dos Microdados do ENEM 2024
 
-Este projeto realiza uma análise exploratória dos microdados do ENEM 2024 utilizando Python e a biblioteca Pandas, além de SQL.
+Este projeto realiza uma análise exploratória dos microdados do ENEM 2024 utilizando Python, Pandas e Jupyter Notebook, além de SQL.
 
 ## Objetivo
 
